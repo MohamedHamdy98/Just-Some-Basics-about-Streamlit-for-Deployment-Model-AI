@@ -1,7 +1,5 @@
 import streamlit as st
-import matplotlib.pyplot as plt
 import plotly.express as px
-import altair as alt
 from dataset import class_data
 
 st.set_page_config(
